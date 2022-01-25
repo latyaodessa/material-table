@@ -20,7 +20,7 @@ import {
   TimePicker,
   DatePicker,
   DateTimePicker,
-} from "@material-ui/pickers";
+} from "@v4-material-ui/pickers";
 
 const ITEM_HEIGHT = 48;
 const ITEM_PADDING_TOP = 8;
