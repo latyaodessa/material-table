@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbrn/material-table.git"
+    "url": "git+https://github.com/latyaodessa/material-table.git"
   },
   "keywords": [
     "react",
@@ -39,9 +39,9 @@
   "author": "Mehmet Baran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mbrn/material-table/issues"
+    "url": "https://github.com/latyaodessa/material-table/issues"
   },
-  "homepage": "https://github.com/mbrn/material-table#readme",
+  "homepage": "https://github.com/latyaodessa/material-table",
   "devDependencies": {
     "@babel/cli": "7.1.2",
     "@babel/core": "7.4.4",
