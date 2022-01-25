@@ -1,10 +1,10 @@
 /* eslint-disable no-unused-vars */
-import Checkbox from "@material-ui/core/Checkbox";
-import TableCell from "@material-ui/core/TableCell";
-import TableRow from "@material-ui/core/TableRow";
-import IconButton from "@material-ui/core/IconButton";
-import Icon from "@material-ui/core/Icon";
-import Tooltip from "@material-ui/core/Tooltip";
+import Checkbox from "@v4-material-ui/core/Checkbox";
+import TableCell from "@v4-material-ui/core/TableCell";
+import TableRow from "@v4-material-ui/core/TableRow";
+import IconButton from "@v4-material-ui/core/IconButton";
+import Icon from "@v4-material-ui/core/Icon";
+import Tooltip from "@v4-material-ui/core/Tooltip";
 import PropTypes from "prop-types";
 import * as React from "react";
 import * as CommonValues from "../utils/common-values";

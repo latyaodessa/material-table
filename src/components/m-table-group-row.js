@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
-import TableCell from "@material-ui/core/TableCell";
-import TableRow from "@material-ui/core/TableRow";
-import IconButton from "@material-ui/core/IconButton";
+import TableCell from "@v4-material-ui/core/TableCell";
+import TableRow from "@v4-material-ui/core/TableRow";
+import IconButton from "@v4-material-ui/core/IconButton";
 import PropTypes from "prop-types";
 import * as React from "react";
 /* eslint-enable no-unused-vars */

@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
-import TableCell from "@material-ui/core/TableCell";
-import TableRow from "@material-ui/core/TableRow";
-import Typography from "@material-ui/core/Typography";
+import TableCell from "@v4-material-ui/core/TableCell";
+import TableRow from "@v4-material-ui/core/TableRow";
+import Typography from "@v4-material-ui/core/Typography";
 import PropTypes from "prop-types";
 import * as React from "react";
 import { byString, setByString } from "../utils";

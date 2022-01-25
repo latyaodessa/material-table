@@ -1,4 +1,4 @@
-> :warning: Please do not create pull requests that contains a lot of change. Because we are working on refactoring and testing. Just pull requests that fixes a bug with a few line changes.
+> :warning: This is form from original material-ui. With this version you can use both libraries mui5 and material-ui v4 together
 
 <br/>
 <br/>
@@ -72,11 +72,11 @@ If you use an older version of react we suggest to upgrade your dependencies or 
 
 To install material-table with `npm`:
 
-    npm install material-table @material-ui/core --save
+    npm install material-table @v4-material-ui/core@npm:@material-ui/core@next --save
 
 To install material-table with `yarn`:
 
-    yarn add material-table @material-ui/core
+    yarn add material-table @v4-material-ui/core@npm:@material-ui/core@next
 
 #### 2.Add material icons
 

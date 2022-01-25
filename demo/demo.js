@@ -1,9 +1,9 @@
-import { Grid, MuiThemeProvider, Button } from "@material-ui/core";
-import { createMuiTheme } from "@material-ui/core/styles";
+import { Grid, MuiThemeProvider, Button } from "@v4-material-ui/core";
+import { createMuiTheme } from "@v4-material-ui/core/styles";
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
 import MaterialTable from "../src";
-import Typography from "@material-ui/core/Typography";
+import Typography from "@v4-material-ui/core/Typography";
 
 let direction = "ltr";
 // direction = 'rtl';
